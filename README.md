@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**wilberquito/wilberquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wilber Quito and I'm a software engineer with computer science background. I'm from Spain, living in Girona and currently working at Nexus Geographics. 
+I really enjoy coding and take great care in the experience, architecture, and code quality of the things I build.
 
-Here are some ideas to get you started:
+*Please don't mess with referential transparency, think functionally*. This is my lema.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 any job offer? do reach, [LinkedIn](https://www.linkedin.com/in/wilber-quito-96076a213/) :)
+- 💬 ask me about anything, i am happy to help
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/wilberquito/wilberquito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberquito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/wilberquito/wilberquito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilberquito&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wilber's GitHub Stats" />
+</a>
