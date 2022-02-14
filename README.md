@@ -1,4 +1,4 @@
-# Hey you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcomed
 
 My name is Wilber Quito and I'm a software engineer with computer science background. I'm from Spain, living in Girona and currently working at Nexus Geographics. 
 I really enjoy coding and take great care in the experience, architecture, and code quality of the things I build.
