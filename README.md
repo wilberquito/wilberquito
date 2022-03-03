@@ -11,7 +11,7 @@ I really enjoy coding and take great care in the experience, architecture, and c
 - 💼 any job offer? do reach, [LinkedIn](https://www.linkedin.com/in/wilber-quito-96076a213/) :)
 - 💬 ask me about anything, I am happy to help
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats
 
 <a href="https://github.com/wilberquito/wilberquito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberquito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
