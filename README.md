@@ -1,14 +1,15 @@
-## Hi! <img src="https://raw.githubusercontent.com/wilberquito/wilberquito/main/assets/wave.gif" width="20px"> 
+<img src="https://raw.githubusercontent.com/wilberquito/wilberquito/main/face.png" width="100%"> 
 
 ### About
 
-I'm a Software Engineer with Computer Science background. I'm from Spain, living in Girona and currently working at Nexus Geographics.
-I really enjoy coding and take great care in the experience, architecture, and code quality of the things I build.
+I'm a FullStack Software Engineer with Computer Science background. Currently living in Spain and working at [Nexus Geographics](https://www.nexusgeographics.com/)
 
-*Please don't mess with referential transparency, think functionally*.
+I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
+
+> Please don't mess with referential transparency, think functionally
 
 - 💼 any job offer? do reach, [LinkedIn](https://www.linkedin.com/in/wilber-quito-96076a213/) :)
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about anything, I am happy to help
 
 ### &#x1f4c8; GitHub Stats
 
