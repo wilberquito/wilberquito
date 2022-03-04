@@ -13,8 +13,9 @@ I really enjoy coding and take great care in the experience, architecture, and c
 
 #### GitHub Stats
 
+<div style="width:100px;  height: 100px; background: red; position: relative;"></div>
 <a href="https://github.com/wilberquito/wilberquito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberquito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberquito&hide=scss,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/wilberquito/wilberquito">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilberquito&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wilber's GitHub Stats" />
