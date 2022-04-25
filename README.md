@@ -6,14 +6,18 @@ I'm a FullStack Software Engineer with Computer Science background. Currently li
 
 I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
 
-If you want to know more about me, see my CV
-- [Spanish](https://raw.githubusercontent.com/wilberquito/wilberquito/main/es/Wilber_s_CV_Template.pdf)
+<details>
+  <summary>If you want to know more about me, see my CV</summary>
+  
+  * [Spanish](https://raw.githubusercontent.com/wilberquito/wilberquito/main/es/Wilber_s_CV_Template.pdf)
 
-> Please don't mess with referential transparency, think functionally
+</details>
+
 
 - 💼 any job offer? do reach, [LinkedIn](https://www.linkedin.com/in/wilber-quito-96076a213/) :)
 - 💬 ask me about anything, I am happy to help
 
+> Please don't mess with referential transparency, think functionally and thanks for reading me
 
 #### GitHub Stats
 
