@@ -9,7 +9,8 @@ I really enjoy coding and take great care in the experience, architecture, and c
 <details>
   <summary>If you want to know more about me, see my CV</summary>
   
-  * [Spanish](https://raw.githubusercontent.com/wilberquito/wilberquito/main/es/Wilber_s_CV_Template.pdf)
+  * [English](https://raw.githubusercontent.com/wilberquito/wilberquito/main/en/Wilber_s_CV_en.pdf)
+  * [Spanish](https://raw.githubusercontent.com/wilberquito/wilberquito/main/es/Wilber_s_CV_es.pdf)
 
 </details>
 
