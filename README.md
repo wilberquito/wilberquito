@@ -2,7 +2,7 @@
 
 #### About
 
-I'm a FullStack Software Engineer with hard knowledge in Theoretical Computer Science. 
+I'm a FullStack Software Engineer with hard knowledge in Theoretical Computer Science
 
 Currently living in Spain and working at [Nexus Geographics](https://www.nexusgeographics.com/)
 
