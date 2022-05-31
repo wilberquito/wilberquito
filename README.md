@@ -10,10 +10,11 @@ I really enjoy coding and take great care in the experience, architecture, and c
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Java, Python, C#, Haskell
-- ⚙️ Angular, Spring Boot, Kafka
+- ⚙️ Angular, Spring Boot
 - 👁️ SASS, CSS
-- 💽 MySQL, SQL, Mongo, Redis
+- 💽 MySQL, PostgreSQL, Mongo, Redis, Kafka
 - 🚀 Docker
+- 🎮 Untiy2D
 
 ## Contact
 - [Wilber Quito](https://www.linkedin.com/in/wilber-quito-96076a213/) on LinkedIn
