@@ -9,7 +9,7 @@ Currently living in Spain and working at [Nexus Geographics](https://www.nexusge
 I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Java, Python, C#, Haskell
+- 👨‍💻 TypeScript, JavaScript, Java, Python, C#, Haskell, Scala
 - ⚙️ Angular, Spring Boot
 - 👁️ SASS, CSS
 - 💽 MySQL, PostgreSQL, Mongo, Redis, Kafka
