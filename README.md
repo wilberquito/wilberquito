@@ -13,7 +13,7 @@ I really enjoy coding and take great care in the experience, architecture, and c
 - ⚙️ Angular, Spring Boot
 - 👁️ SASS, CSS
 - 💽 MySQL, PostgreSQL, Mongo, Redis, Kafka
-- 🚀 Docker
+- 🚀 Docker, CI/CD
 - 🎮 Untiy2D
 
 ## Contact
