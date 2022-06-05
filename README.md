@@ -12,7 +12,7 @@ I really enjoy coding and take great care in the experience, architecture, and c
 - 👨‍💻 TypeScript, JavaScript, Java, Python, C#, Haskell, Scala
 - ⚙️ Angular, Spring Boot
 - 👁️ SASS, CSS
-- 💽 MySQL, PostgreSQL, Mongo, Redis, Kafka
+- 📀 MySQL, PostgreSQL, Mongo, Redis, Kafka
 - 🚀 Docker, CI/CD
 - 🎮 Untiy2D
 
