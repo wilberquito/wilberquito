@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/wilberquito/wilberquito/main/face.png" width="100%"> 
 
-## Hey! 🤙
+## Hey folks! 🤙
 
-I'm a FullStack Software Engineer with hard knowledge in Theoretical Computer Science
+I'm a FullStack Software Engineer / Data Engineer
 
 Currently living in Spain and working at [Nexus Geographics](https://www.nexusgeographics.com/)
 
