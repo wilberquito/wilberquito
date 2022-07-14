@@ -15,5 +15,5 @@ I really enjoy coding and take great care in the experience, architecture, and c
 - 🎮 Untiy2D
 
 ## Contact
-- [Wilber Quito](https://www.linkedin.com/in/wilber-quito-96076a213/) on LinkedIn
+- [Wilber Quito](https://www.linkedin.com/in/wilber-quito/) on LinkedIn
 - [@wilberquito](https://www.instagram.com/wilberquito/?hl=es) on Instagram
