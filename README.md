@@ -5,5 +5,5 @@
 I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/wilber-quito/) on LinkedIn
-- [Instagram](https://www.instagram.com/wilberquito/?hl=es) on Instagram
+- [LinkedIn](https://www.linkedin.com/in/wilber-quito/)
+- [Instagram](https://www.instagram.com/wilberquito/?hl=es)
