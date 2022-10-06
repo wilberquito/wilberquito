@@ -17,7 +17,6 @@
 <h4> Website </h4>
 
 <a href="https://wilberquito.github.io" target="_blank"> :earth_americas: </a>
-<br/>
 
 <h4> Curriculum vitae </h4>
 
