@@ -1,9 +1,31 @@
-<img src="https://raw.githubusercontent.com/wilberquito/wilberquito/main/face.png" width="100%"> 
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/wilberquito/wilberquito/main/face.png" width="70%">
+  
+  
+  <h3 align="center"> 
+  
+  MSc Student in Data Science | BSc in Computer Science
 
-### MSc Student in Data Science | BSc in Computer Science
+  </h3>
+  
+  <p align="center">
+    I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
+  </p>
+  
+  <br/>
+  
 
-I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/wilber-quito/)
-- [Instagram](https://www.instagram.com/wilberquito/?hl=es)
+<h4> Website </h4>
+
+<a href="https://wilberquito.github.io"> :earth_americas: </a>
+<br/>
+
+<h4> Curriculum vitae </h4>
+
+<a href="https://drive.google.com/file/d/104R7JsnutABb_o1TQ1kNDoYqJC1QCWvU/view?usp=sharing"> :page_with_curl: </a>
+<br/>
+<br/>
+
+</div>
