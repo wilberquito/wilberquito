@@ -13,9 +13,6 @@
     I really enjoy coding and take great care in the experience, architecture, and code quality of things I build
   </p>
   
-  <br/>
-  
-
 
 <h4> Website </h4>
 
