@@ -17,7 +17,7 @@
 
   <h4> Curriculum vitae </h4>
 
-  <a href="https://drive.google.com/file/d/104R7JsnutABb_o1TQ1kNDoYqJC1QCWvU/view?usp=sharing" target="_blank"> :page_with_curl: </a>
+  <a href="https://drive.google.com/file/d/1pcf6fj8wKexrUVCJTxi65SOBoQ6VAceM/view?usp=sharing" target="_blank"> :page_with_curl: </a>
   
   <h4> Website </h4>
 
