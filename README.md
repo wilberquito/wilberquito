@@ -2,8 +2,7 @@
 
 
 Welcome to my little corner of the internet! I’m Wilber, a computer science
-graduate with a specialization in data science and machine learning. This blog
-is my space to share my love for math and tech. As you
+graduate with a specialization in data science and machine learning. As you
 explore, you’ll discover a blend of my projects, ideas, and the topics that
 fuel my enthusiasm. Dive in and enjoy the journey!
 
